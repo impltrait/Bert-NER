@@ -2,7 +2,7 @@
 
 ### *Introduction*
 
-该项目是基于谷歌开源的BERT预训练模型，在中文NER任务上进行[fine-tune](https://github.com/google-research/bert)。
+该项目是基于谷歌开源的BERT预训练模型，在中文NER任务上进行[fine-tune](https://github.com/binhaowang/Bert-NER/blob/master/BERT%20fine-tune%E5%AE%9E%E8%B7%B5.md)。
 
 ### *Datasets & Model*
 
